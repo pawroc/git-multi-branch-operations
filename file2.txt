@@ -1,2 +1,1 @@
-First line
-Second line
+Brand new file2 content - fix
